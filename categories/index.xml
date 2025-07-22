@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Beya By</title><link>https://beyaby.com/categories/</link><description>Recent content in Categories on Beya By</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2024 08:55:59 +0000</lastBuildDate><atom:link href="https://beyaby.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Golf</title><link>https://beyaby.com/categories/golf/</link><pubDate>Mon, 07 Oct 2024 05:56:26 +0000</pubDate><guid>https://beyaby.com/categories/golf/</guid><description/></item><item><title>Sailing</title><link>https://beyaby.com/categories/sailing/</link><pubDate>Fri, 04 Oct 2024 05:57:00 +0000</pubDate><guid>https://beyaby.com/categories/sailing/</guid><description/></item><item><title>Rich-Person</title><link>https://beyaby.com/categories/rich-person/</link><pubDate>Wed, 02 Oct 2024 05:55:00 +0000</pubDate><guid>https://beyaby.com/categories/rich-person/</guid><description/></item><item><title>Equestrian</title><link>https://beyaby.com/categories/equestrian/</link><pubDate>Fri, 13 Sep 2024 05:56:00 +0000</pubDate><guid>https://beyaby.com/categories/equestrian/</guid><description/></item><item><title>Tennis</title><link>https://beyaby.com/categories/tennis/</link><pubDate>Tue, 03 Sep 2024 05:57:00 +0000</pubDate><guid>https://beyaby.com/categories/tennis/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Beya By</title>
+    <link>https://beyaby.com/categories/</link>
+    <description>Recent content in Categories on Beya By</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Oct 2024 08:55:59 +0000</lastBuildDate>
+    <atom:link href="https://beyaby.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Golf</title>
+      <link>https://beyaby.com/categories/golf/</link>
+      <pubDate>Mon, 07 Oct 2024 05:56:26 +0000</pubDate>
+      <guid>https://beyaby.com/categories/golf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sailing</title>
+      <link>https://beyaby.com/categories/sailing/</link>
+      <pubDate>Fri, 04 Oct 2024 05:57:00 +0000</pubDate>
+      <guid>https://beyaby.com/categories/sailing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rich-Person</title>
+      <link>https://beyaby.com/categories/rich-person/</link>
+      <pubDate>Wed, 02 Oct 2024 05:55:00 +0000</pubDate>
+      <guid>https://beyaby.com/categories/rich-person/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Equestrian</title>
+      <link>https://beyaby.com/categories/equestrian/</link>
+      <pubDate>Fri, 13 Sep 2024 05:56:00 +0000</pubDate>
+      <guid>https://beyaby.com/categories/equestrian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tennis</title>
+      <link>https://beyaby.com/categories/tennis/</link>
+      <pubDate>Tue, 03 Sep 2024 05:57:00 +0000</pubDate>
+      <guid>https://beyaby.com/categories/tennis/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
